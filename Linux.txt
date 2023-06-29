@@ -1,0 +1,4 @@
+In today's class I learned about:
+•How to navigate files and directories in Linux
+•Basic commands for managing files and directories
+•Compare absolute and relative paths
