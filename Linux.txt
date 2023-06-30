@@ -1,4 +1,14 @@
-In today's class I learned about:
+In my previous class, I learned about:
+Linux User and Groups 
+How to create a user, modify a user and delete a user.
+And how to create a group, and delete a group.
+Importance of su and sudo commands.
+
+
+
+In today's class, I learned about:
 •How to navigate files and directories in Linux
 •Basic commands for managing files and directories
 •Compare absolute and relative paths
+
+
